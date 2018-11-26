@@ -1,0 +1,27 @@
+git init
+.gitignore
+git add
+git commit -m message saying what I did
+(or instead of -m just click enter then ctrl+O and enter message, press enter and ctrl+x
+
+git log -- see the log of commits, get out of this by just pressing 'q'
+git branch MYBRANCHNAME --creates a new branch
+git branch feature/myfancyfeature --you're not making a folder here, this is just organizing branches
+--You're always on a branch. The default branch you're on is master. 
+--just typing 'git branch' will show you all branches, and there's a star next to the branch you're on
+git checkout --switches to a branch
+git branch -d nameofbranch --deletes a branch
+git merge nameofbranch -- will merge branch into current branch
+git fetch --
+git pull --fetch and then merge
+git stash --
+
+
+github
+------------
+git clone url
+when you clone something that you have no rights for, and make changes, you send a pull request (you request that THEY pull your work)
+
+
+git fork url
+git clone FROM YOUR URL THAT THE FORK MADE
