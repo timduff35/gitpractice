@@ -4,4 +4,4 @@ Trying to create a merge conflict
 
 Editing this file for the first time
 
-Git day 3, making some changes
+Git day $3,$ making some changes
